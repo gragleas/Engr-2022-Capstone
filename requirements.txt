@@ -1,0 +1,8 @@
+pyaudio
+numpy
+scipy
+noisereduce
+pyAudioAnalysis
+Adafruit-Blinka
+adafruit-circuitpython-tsl2591
+adafruit-circuitpython-mpu6050
